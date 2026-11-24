@@ -1,10 +1,171 @@
 {
-  "shows": {},
+  "shows": {
+    "INTO|93323|20261220|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:05 AM",
+      "date": "20261220",
+      "cat": "CLUB",
+      "price": "270.98",
+      "status": "0"
+    },
+    "INTO|93323|20261220|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:05 AM",
+      "date": "20261220",
+      "cat": "EXECUTIVE",
+      "price": "121.74",
+      "status": "0"
+    },
+    "INTO|93319|20261220|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "01:30 PM",
+      "date": "20261220",
+      "cat": "CLUB",
+      "price": "270.98",
+      "status": "0"
+    },
+    "INTO|93319|20261220|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "01:30 PM",
+      "date": "20261220",
+      "cat": "EXECUTIVE",
+      "price": "121.74",
+      "status": "1"
+    },
+    "INTO|93320|20261220|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "04:55 PM",
+      "date": "20261220",
+      "cat": "CLUB",
+      "price": "270.98",
+      "status": "0"
+    },
+    "INTO|93320|20261220|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "04:55 PM",
+      "date": "20261220",
+      "cat": "EXECUTIVE",
+      "price": "121.74",
+      "status": "0"
+    },
+    "INTO|93321|20261220|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "08:20 PM",
+      "date": "20261220",
+      "cat": "CLUB",
+      "price": "270.98",
+      "status": "0"
+    },
+    "INTO|93321|20261220|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "08:20 PM",
+      "date": "20261220",
+      "cat": "EXECUTIVE",
+      "price": "121.74",
+      "status": "1"
+    },
+    "INTO|93322|20261220|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 PM",
+      "date": "20261220",
+      "cat": "CLUB",
+      "price": "270.98",
+      "status": "0"
+    },
+    "INTO|93322|20261220|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 PM",
+      "date": "20261220",
+      "cat": "EXECUTIVE",
+      "price": "121.74",
+      "status": "2"
+    },
+    "INPR|69712|20261220|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:40 AM",
+      "date": "20261220",
+      "cat": "ELITE",
+      "price": "260.98",
+      "status": "0"
+    },
+    "INPR|69712|20261220|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:40 AM",
+      "date": "20261220",
+      "cat": "BUDGET",
+      "price": "111.74",
+      "status": "0"
+    },
+    "INPR|69713|20261220|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "01:05 PM",
+      "date": "20261220",
+      "cat": "ELITE",
+      "price": "260.98",
+      "status": "0"
+    },
+    "INPR|69713|20261220|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "01:05 PM",
+      "date": "20261220",
+      "cat": "BUDGET",
+      "price": "111.74",
+      "status": "0"
+    },
+    "INPR|69714|20261220|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:30 PM",
+      "date": "20261220",
+      "cat": "ELITE",
+      "price": "260.98",
+      "status": "0"
+    },
+    "INPR|69714|20261220|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:30 PM",
+      "date": "20261220",
+      "cat": "BUDGET",
+      "price": "111.74",
+      "status": "0"
+    },
+    "INPR|69715|20261220|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:55 PM",
+      "date": "20261220",
+      "cat": "ELITE",
+      "price": "260.98",
+      "status": "0"
+    },
+    "INPR|69715|20261220|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:55 PM",
+      "date": "20261220",
+      "cat": "BUDGET",
+      "price": "111.74",
+      "status": "1"
+    },
+    "INPR|69716|20261220|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261220",
+      "cat": "ELITE",
+      "price": "260.98",
+      "status": "0"
+    },
+    "INPR|69716|20261220|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261220",
+      "cat": "BUDGET",
+      "price": "111.74",
+      "status": "2"
+    }
+  },
   "dates": {
-    "20261217": "BOOKABLE",
+    "20261217": "AVAILABLE",
     "20261218": "AVAILABLE",
     "20261219": "AVAILABLE",
-    "20261220": "AVAILABLE",
+    "20261220": "BOOKABLE",
     "20261221": "NOT_OPEN",
     "20261222": "NOT_OPEN",
     "20261223": "NOT_OPEN"
